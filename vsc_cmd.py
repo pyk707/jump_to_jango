@@ -6,4 +6,4 @@
 #cd venvs → venvs로 이동
 #python -m venv mysite  → 파이썬 모듈 중 venv라는 가상 모듈을 사용하고, 가상 모듈의 이름은 mysite
 #cd를 사용하여 vevns의 Scripts에 들어가서
-#activate // deactivate를 사용하여 가상화를 끄고 킬 수 있다
+#activate // deactivate를 사용하여 가상화를 끄고 킬 수 있다 
