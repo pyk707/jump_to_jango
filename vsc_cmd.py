@@ -16,4 +16,4 @@
 #mkdir mysite
 #cd mysite
 #django-admin startproject config .
-#(.)점은 '현재 디렉터리를 프로젝트 디렉터리로 만들어라'는 뜻
+#(.)점은 '현재 디렉터리를 프로젝트 디렉터리로 만들어라'는 뜻 
